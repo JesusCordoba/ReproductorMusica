@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "514865901368",
+    "project_id": "reproductormusica-76798",
+    "storage_bucket": "reproductormusica-76798.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514865901368:android:d02f4638f12270a657dbcd",
+        "android_client_info": {
+          "package_name": "com.example.reproductormusica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD33QsLOon6zf9mtUAtNmImj6Ws5_Op6F4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
